@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<data name="Validation_UserNotFound" xml:space="preserve">
+    <value>User not found!</value>
+  </data>
+  <data name="Validation_EmailRequired" xml:space="preserve">
+    <value>Email is required.</value>
+  </data>
+  <data name="Validation_InvalidEmail" xml:space="preserve">
+    <value>The email is invalid.</value>
+  </data>
+  <data name="Validation_InvalidDate" xml:space="preserve">
+    <value>The date is invalid.</value>
+  </data>
+  <data name="Error_ClientEmailRequired" xml:space="preserve">
+    <value>Client email is required.</value>
+  </data>
+  <data name="Error_InvalidDate" xml:space="preserve">
+    <value>The date must be in the future.</value>
+  </data>
+  <data name="Error_TechnicianRequired" xml:space="preserve">
+    <value>At least one technician is required for the reservation.</value>
+  </data>
+  <data name="Error_NotEmpty" xml:space="preserve">
+    <value>Cannot be empty</value>
+  </data>
+  <data name="Error_ServiceUnknown" xml:space="preserve">
+    <value>Service unknown</value>
+  </data>
+    <data name="Error_ServiceDouble" xml:space="preserve">
+    <value>Cannot add the same service</value>
+  </data>
+</root>

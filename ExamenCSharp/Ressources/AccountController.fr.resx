@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Validation_EmptyLastName" xml:space="preserve">
+    <value>Le nom de famille ne peut pas être vide.</value>
+  </data>
+  <data name="Validation_EmptyFirstName" xml:space="preserve">
+    <value>Le prénom ne peut pas être vide.</value>
+  </data>
+  <data name="Validation_EmptyEmail" xml:space="preserve">
+    <value>L'email ne peut pas être vide.</value>
+  </data>
+  <data name="Validation_EmptyPassword" xml:space="preserve">
+    <value>Le mot de passe ne peut pas être vide.</value>
+  </data>
+  <data name="Error_AccountCreationFailed" xml:space="preserve">
+    <value>Impossible de créer le compte.</value>
+  </data>
+  <data name="Error_InvalidCredentials" xml:space="preserve">
+    <value>Email ou mot de passe incorrect.</value>
+  </data>
+  <data name="Error_NotEmpty" xml:space="preserve">
+    <value>Ne peut pas être vide</value>
+  </data>
+  <data name="Success_AccountCreated" xml:space="preserve">
+    <value>Compte créé avec succès !</value>
+  </data>
+</root>

@@ -1,0 +1,34 @@
+[
+    {
+        "Username": "admin",
+        "Nom": "Gressus",
+        "Prenom": "Sully",
+        "Email": "sullydu31@gmail.com",
+        "Password": "AdminPassword123!",
+        "Role": "Administrateur"
+    },
+    {
+        "Username": "Technicien1",
+        "Nom": "Technicien1",
+        "Prenom": "Technicien1",
+        "Email": "Technicien1@gmail.com",
+        "Password": "AdminPassword23!",
+        "Role": "Technicien"
+    },
+    {
+        "Username": "Technicien2",
+        "Nom": "Technicien2",
+        "Prenom": "Technicien2",
+        "Email": "Technicien2@gmail.com",
+        "Password": "AdminPassword23!",
+        "Role": "Technicien"
+    },
+    {
+        "Username": "Technicien3",
+        "Nom": "Technicien3",
+        "Prenom": "Technicien3",
+        "Email": "Technicien3@gmail.com",
+        "Password": "AdminPassword23!",
+        "Role": "Technicien"
+    }
+]
